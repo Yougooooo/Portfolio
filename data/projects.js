@@ -71,7 +71,7 @@ export const projects = [
     description: "Réalisation d'un Jeu 2D Pokemon like",
     image: "/images/Epimon.png",
     technologies: ["Java", "Gradle", "LibGdx"],
-    //github: "https://github.com/Yougooooo/",
+    github: "https://github.com/Yougooooo/EPIMON",
     detailedDescription:
     `Jeu 2D inspiré de l'univers Pokemon développé en Java avec LibGDX.
 
