@@ -65,6 +65,28 @@ export const projects = [
     duration: "2 semaines",
     date: "2025"
   }
+  {
+    id: 4,
+    title: "EPIMON",
+    description: "Réalisation d'un Jeu 2D Pokemon like",
+    image: "/images/Epimon.png",
+    technologies: ["Java", "Gradle", "LibGdx"],
+    //github: "https://github.com/Yougooooo/",
+    detailedDescription: 
+    `Plateforme de recherche d'emploi moderne et intuitive.
+
+      Fonctionnalités :
+        - Recherche avancée d'offres
+        - Système de candidature en ligne
+        - Espace recruteur et candidat
+        - Matching intelligent candidat/offre
+        - Tableau de bord personnalisé
+
+        Projet réalisé en équipe de trois.`,
+
+    duration: "3 semaines",
+    date: "2025"
+  }
 ]
 
 export function getProjectById(id) {
