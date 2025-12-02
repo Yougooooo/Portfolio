@@ -64,7 +64,7 @@ export const projects = [
 
     duration: "2 semaines",
     date: "2025"
-  }
+  },
   {
     id: 4,
     title: "EPIMON",
