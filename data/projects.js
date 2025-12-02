@@ -72,15 +72,16 @@ export const projects = [
     image: "/images/Epimon.png",
     technologies: ["Java", "Gradle", "LibGdx"],
     //github: "https://github.com/Yougooooo/",
-    detailedDescription: 
-    `Plateforme de recherche d'emploi moderne et intuitive.
+    detailedDescription:
+    `Jeu 2D inspiré de l'univers Pokemon développé en Java avec LibGDX.
 
       Fonctionnalités :
-        - Recherche avancée d'offres
-        - Système de candidature en ligne
-        - Espace recruteur et candidat
-        - Matching intelligent candidat/offre
-        - Tableau de bord personnalisé
+        - Système de combat au tour par tour
+        - Choix de Pokemon Starter avec interface graphique
+        - Exploration de cartes 2D
+        - Système d'évolution des créatures
+        - Interface graphique intuitive
+        - Consommables pour les combats
 
         Projet réalisé en équipe de trois.`,
 
